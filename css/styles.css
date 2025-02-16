@@ -118,6 +118,8 @@ main {
 }
 
 .header-logo {
+  display: inline-block;
+
   padding: 24px 0;
   margin-right: 76px;
   font-family: 'Raleway', sans-serif;
@@ -140,6 +142,7 @@ main {
 }
 
 .menu-link {
+  display: inline-block;
   padding: 24px 0;
   font-weight: 500;
   color: #2e2f42;
@@ -151,6 +154,8 @@ main {
 }
 
 .header-address-link {
+  display: inline-block;
+
   padding: 24px 0;
 }
 
